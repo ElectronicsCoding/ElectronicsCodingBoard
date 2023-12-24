@@ -14,7 +14,7 @@
           "architecture": "esp32",
           "version": "1.0.0",
           "category": "Contributed",
-          "url": "https://github.com/CONTROLLINO-PLC/CONTROLLINO_Library/raw/master/Boards/ControllinoHW.zip",
+          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/5002bf4a226c758da706ea890aa2a3cd5591a55d/Boards/ElectronicsCodingHW.zip",
           "archiveFileName": "ElectronicsCodingHW.zip",
           "checksum": "",
           "size": "70433",
