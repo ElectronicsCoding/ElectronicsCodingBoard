@@ -1,18 +1,18 @@
 {
   "packages": [
     {
-      "name": "esp32",
-      "maintainer": "Espressif Systems",
-      "websiteURL": "https://github.com/espressif/arduino-esp32",
-      "email": "hristo@espressif.com",
+      "name": "ElectronicsCoding_Boards",
+      "maintainer": "ElectronicsCoding",
+      "websiteURL": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard",
+      "email": "info@electronicscoding.com",
       "help": {
-        "online": "http://esp32.com"
+        "online": "https://electronicscoding.com"
       },
       "platforms": [
         {
           "name": "esp32",
           "architecture": "esp32",
-          "version": "2.0.14",
+          "version": "1.0.0",
           "category": "ESP32",
           "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/5002bf4a226c758da706ea890aa2a3cd5591a55d/Boards/ElectronicsCodingHW.zip",
           "archiveFileName": "ElectronicsCodingHW.zip",
@@ -23,19 +23,7 @@
           },
           "boards": [
             {
-              "name": "ESP32 Dev Board"
-            },
-            {
-              "name": "ESP32-S2 Dev Board"
-            },
-            {
-              "name": "ESP32-S3 Dev Board"
-            },
-            {
-              "name": "ESP32-C3 Dev Board"
-            },
-            {
-              "name": "Arduino Nano ESP32"
+              "name": "AIO Mega Pure"
             }
           ],
           "toolsDependencies": [
