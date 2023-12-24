@@ -5,24 +5,19 @@
       "maintainer": "ElectronicsCoding",
       "websiteURL": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard",
       "email": "info@electronicscoding.com",
-
-      "name": "esp32",
-      "maintainer": "Espressif Systems",
-      "websiteURL": "https://github.com/espressif/arduino-esp32",
-      "email": "hristo@espressif.com",
       "help": {
         "online": "http://esp32.com"
       },
       "platforms": [
         {
-          "name": "esp32",
+          "name": "ElectronicsCoding Boards",
           "architecture": "esp32",
           "version": "2.0.14",
           "category": "ESP32",
-          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/8c006958b2c4e127255bafa90288d0e2cba618ab/Boards/ElectronicsCodingV0.0.1.zip",
-          "archiveFileName": "ElectronicsCodingV0.0.1.zip",
-          "checksum": "SHA-256:77c71eba520c97ab30161eb2f9c6a46b019e48d13936244b18f6ad4dbecf0a58",
-          "size": "72156497",
+          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/5002bf4a226c758da706ea890aa2a3cd5591a55d/Boards/ElectronicsCodingHW.zip",
+          "archiveFileName": "ElectronicsCodingHW.zip",
+          "checksum": "SHA-256:191b2a690254eb948d793650ccdf4783c08614cc1f0ca7ab1c8ccee2deb94164",
+          "size": "72122651",
           "help": {
             "online": ""
           },
@@ -1329,44 +1324,6 @@
               "packager": "esp32",
               "version": "2.6.0",
               "name": "esptool_py"
-            },
-            {
-              "packager": "esp32",
-              "version": "0.2.3",
-              "name": "mkspiffs"
-            }
-          ],
-          "boards": [
-            {
-              "name": "ESP32 Dev Module"
-            },
-            {
-              "name": "WEMOS LoLin32"
-            }
-          ]
-        },
-        {
-          "category": "ESP32",
-          "help": {
-            "online": ""
-          },
-          "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.0/esp32-1.0.0.zip",
-          "checksum": "SHA-256:94d586174f103e2014be590ab307c5cdda6fa2ec70204c7f121882ace5e05c80",
-          "name": "esp32",
-          "version": "3.0.0",
-          "architecture": "esp32",
-          "archiveFileName": "esp32-1.0.0.zip",
-          "size": "26381887",
-          "toolsDependencies": [
-            {
-              "packager": "esp32",
-              "version": "1.22.0-80-g6c4433a-5.2.0",
-              "name": "xtensa-esp32-elf-gcc"
-            },
-            {
-              "packager": "esp32",
-              "version": "2.3.1",
-              "name": "esptool"
             },
             {
               "packager": "esp32",
