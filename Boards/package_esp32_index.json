@@ -14,10 +14,10 @@
           "architecture": "esp32",
           "version": "2.0.14",
           "category": "ESP32",
-          "url": "https://github.com/espressif/arduino-esp32/releases/download/2.0.14/esp32-2.0.14.zip",
-          "archiveFileName": "esp32-2.0.14.zip",
-          "checksum": "SHA-256:77c71eba520c97ab30161eb2f9c6a46b019e48d13936244b18f6ad4dbecf0a58",
-          "size": "252506057",
+          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/5002bf4a226c758da706ea890aa2a3cd5591a55d/Boards/ElectronicsCodingHW.zip",
+          "archiveFileName": "ElectronicsCodingHW.zip",
+          "checksum": "SHA-256:191b2a690254eb948d793650ccdf4783c08614cc1f0ca7ab1c8ccee2deb94164",
+          "size": "72122651",
           "help": {
             "online": ""
           },
