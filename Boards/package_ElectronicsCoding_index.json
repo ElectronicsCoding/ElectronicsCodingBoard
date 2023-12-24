@@ -13,7 +13,7 @@
           "name": "ElectronicsCoding Boards",
           "architecture": "esp32",
           "version": "1.0.0",
-          "category": "Contributed",
+          "category": "ESP32",
           "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/blob/main/Boards/ElectronicsCodingHW.zip",
           "archiveFileName": "ElectronicsCodingHW.zip",
           "checksum": "SHA-256:a3fe9bae68f48e6be345949fbc953db0d8e2b730",
