@@ -127,10 +127,13 @@
           ],
           "boards": [
             {
-              "name": "ESP32 Dev Module"
+              "name": "AIO Mega Classic"
             },
             {
-              "name": "WEMOS LoLin32"
+              "name": "AIO Mega Pure"
+            },
+            {
+              "name": "AIO Mega Premium"
             }
           ]
         }
