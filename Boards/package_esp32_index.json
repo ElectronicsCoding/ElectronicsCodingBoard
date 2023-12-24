@@ -1,17 +1,15 @@
 {
   "packages": [
     {
-<<<<<<< HEAD
      "name": "ElectronicsCoding_Boards",
       "maintainer": "ElectronicsCoding",
       "websiteURL": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard",
       "email": "info@electronicscoding.com",
-=======
+
       "name": "esp32",
       "maintainer": "Espressif Systems",
       "websiteURL": "https://github.com/espressif/arduino-esp32",
       "email": "hristo@espressif.com",
->>>>>>> parent of 0be637d (Update package_esp32_index.json)
       "help": {
         "online": "http://esp32.com"
       },
@@ -19,11 +17,7 @@
         {
           "name": "esp32",
           "architecture": "esp32",
-<<<<<<< HEAD
-          "version": "3.0.1",
-=======
           "version": "2.0.14",
->>>>>>> parent of 0be637d (Update package_esp32_index.json)
           "category": "ESP32",
           "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/8c006958b2c4e127255bafa90288d0e2cba618ab/Boards/ElectronicsCodingV0.0.1.zip",
           "archiveFileName": "ElectronicsCodingV0.0.1.zip",
