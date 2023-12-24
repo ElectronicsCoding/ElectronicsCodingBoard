@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "ElectronicsCoding_Boards",
+     "name": "ElectronicsCoding_Boards",
       "maintainer": "ElectronicsCoding",
       "websiteURL": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard",
       "email": "info@electronicscoding.com",
@@ -12,24 +12,30 @@
         {
           "name": "esp32",
           "architecture": "esp32",
-          "version": "0.0.1",
+          "version": "1.0.0",
           "category": "ESP32",
           "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/blob/8c006958b2c4e127255bafa90288d0e2cba618ab/Boards/ElectronicsCodingV0.0.1.zip",
           "archiveFileName": "ElectronicsCodingV0.0.1.zip",
-          "checksum": "SHA-256:6907866d663ef48f1ced26415e55c3a203d81ba0fe1cbc30fa44da1c698a9777",
+          "checksum": "SHA-256:77c71eba520c97ab30161eb2f9c6a46b019e48d13936244b18f6ad4dbecf0a58",
           "size": "72156497",
           "help": {
             "online": ""
           },
           "boards": [
             {
-              "name": "AIO Mega Classic"
+              "name": "ESP32 Dev Board"
             },
             {
-              "name": "AIO Mega Pure"
+              "name": "ESP32-S2 Dev Board"
             },
             {
-              "name": "AIO Mega Premium "
+              "name": "ESP32-S3 Dev Board"
+            },
+            {
+              "name": "ESP32-C3 Dev Board"
+            },
+            {
+              "name": "Arduino Nano ESP32"
             }
           ],
           "toolsDependencies": [
@@ -1318,6 +1324,44 @@
               "packager": "esp32",
               "version": "2.6.0",
               "name": "esptool_py"
+            },
+            {
+              "packager": "esp32",
+              "version": "0.2.3",
+              "name": "mkspiffs"
+            }
+          ],
+          "boards": [
+            {
+              "name": "ESP32 Dev Module"
+            },
+            {
+              "name": "WEMOS LoLin32"
+            }
+          ]
+        },
+        {
+          "category": "ESP32",
+          "help": {
+            "online": ""
+          },
+          "url": "https://github.com/espressif/arduino-esp32/releases/download/1.0.0/esp32-1.0.0.zip",
+          "checksum": "SHA-256:94d586174f103e2014be590ab307c5cdda6fa2ec70204c7f121882ace5e05c80",
+          "name": "esp32",
+          "version": "3.0.0",
+          "architecture": "esp32",
+          "archiveFileName": "esp32-1.0.0.zip",
+          "size": "26381887",
+          "toolsDependencies": [
+            {
+              "packager": "esp32",
+              "version": "1.22.0-80-g6c4433a-5.2.0",
+              "name": "xtensa-esp32-elf-gcc"
+            },
+            {
+              "packager": "esp32",
+              "version": "2.3.1",
+              "name": "esptool"
             },
             {
               "packager": "esp32",
