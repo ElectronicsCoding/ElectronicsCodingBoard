@@ -23,7 +23,13 @@
           },
           "boards": [
             {
+              "name": "AIO Mega Classic"
+            },
+            {
               "name": "AIO Mega Pure"
+            },
+            {
+              "name": "AIO Mega Premium "
             }
           ],
           "toolsDependencies": [
