@@ -12,12 +12,12 @@
         {
           "name": "ElectronicsCoding Boards",
           "architecture": "esp32",
-          "version": "1.0.2",
+          "version": "1.0.1",
           "category": "ESP32",
-          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/791eeab0264c2459f631883dd8f184a38b570e47/Boards/ElectronicsCodingHWv1.0.2.zip",
-          "archiveFileName": "ElectronicsCodingHWv1.0.2.zip",
-          "checksum": "SHA-256:5295824630a7af9429f9a527d744e8a9a4ac9fee85e76d005bf870915b3ce517",
-          "size": "72640837",
+          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/e3c67122201f8a555ecef30aba5314307ec5e38f/Boards/ElectronicsCodingHWv1.0.1.zip",
+          "archiveFileName": "ElectronicsCodingHWv1.0.1.zip",
+          "checksum": "SHA-256:f47f3cabd0dfa4f5f243909ab20ee7c96015a7d11f3e49097914ac52057e0e48",
+          "size": "72640832",
           "help": {
             "online": ""
           },
