@@ -12,7 +12,7 @@
         {
           "name": "esp32",
           "architecture": "esp32",
-          "version": "1.0.0",
+          "version": "0.0.1",
           "category": "ESP32",
           "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/blob/8c006958b2c4e127255bafa90288d0e2cba618ab/Boards/ElectronicsCodingV0.0.1.zip",
           "archiveFileName": "ElectronicsCodingV0.0.1.zip",
