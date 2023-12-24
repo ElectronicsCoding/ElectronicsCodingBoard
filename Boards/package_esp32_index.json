@@ -14,7 +14,7 @@
           "architecture": "esp32",
           "version": "3.0.1",
           "category": "ESP32",
-          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/blob/8c006958b2c4e127255bafa90288d0e2cba618ab/Boards/ElectronicsCodingV0.0.1.zip",
+          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/8c006958b2c4e127255bafa90288d0e2cba618ab/Boards/ElectronicsCodingV0.0.1.zip",
           "archiveFileName": "ElectronicsCodingV0.0.1.zip",
           "checksum": "SHA-256:6907866d663ef48f1ced26415e55c3a203d81ba0fe1cbc30fa44da1c698a9777",
           "size": "72156497",
