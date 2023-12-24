@@ -3,7 +3,7 @@
     {
       "name": "ElectronicsCoding_Boards",
       "maintainer": "ElectronicsCoding",
-      "websiteURL": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard2",
+      "websiteURL": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard",
       "email": "info@electronicscoding.com",
       "help": {
         "online": "https://electronicscoding.com"
@@ -14,7 +14,7 @@
           "architecture": "esp32",
           "version": "1.0.0",
           "category": "ESP32",
-          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/blob/main/Boards/ElectronicsCodingHW.zip",
+          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/blob/9d65ea059e491dc00961294e18791b07c3a12ef3/Boards/ElectronicsCodingHW.zip",
           "archiveFileName": "ElectronicsCodingHW.zip",
           "checksum": "SHA-256:a3fe9bae68f48e6be345949fbc953db0d8e2b730",
           "size": "70433",
