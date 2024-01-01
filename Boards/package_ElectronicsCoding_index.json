@@ -6,7 +6,7 @@
       "websiteURL": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard",
       "email": "info@electronicscoding.com",
       "help": {
-        "online": "http://electronicscoding.com"
+        "online": "https://electronicscoding.com"
       },
       "platforms": [
         {
@@ -14,10 +14,10 @@
           "architecture": "esp32",
           "version": "1.0.1",
           "category": "ESP32",
-          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/29146fa2e97bf4b01295a96b02e8e99cf13ba29f/Boards/ElectronicsCodingHWv1.0.1.zip",
+          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/48e50f23575b7c198323511a105a8f208f86b098/Boards/ElectronicsCodingHWv1.0.1.zip",
           "archiveFileName": "ElectronicsCodingHWv1.0.1.zip",
-          "checksum": "SHA-256:f47f3cabd0dfa4f5f243909ab20ee7c96015a7d11f3e49097914ac52057e0e48",
-          "size": "72640832",
+          "checksum": "SHA-256:92b4dcc3a64c2a7d7e68b0f06f7ca8acebaf3446f620c8f02113d61114d48ea0",
+          "size": "73298003",
           "help": {
             "online": ""
           },
@@ -101,7 +101,7 @@
           "version": "1.0.0",
           "architecture": "esp32",
           "archiveFileName": "ElectronicsCodingHWv1.0.0.zip",
-          "size": "72171831",
+          "size": "73298003",
           "toolsDependencies": [
             {
               "packager": "esp32",
