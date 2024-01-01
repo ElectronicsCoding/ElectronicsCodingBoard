@@ -14,7 +14,7 @@
           "architecture": "esp32",
           "version": "1.0.1",
           "category": "ESP32",
-          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/48e50f23575b7c198323511a105a8f208f86b098/Boards/ElectronicsCodingHWv1.0.1.zip",
+          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/89d328baa17cd51d4e69b66b9f89a77a1cc72cae/Boards/ElectronicsCodingHWv1.0.1.zip",
           "archiveFileName": "ElectronicsCodingHWv1.0.1.zip",
           "checksum": "SHA-256:92b4dcc3a64c2a7d7e68b0f06f7ca8acebaf3446f620c8f02113d61114d48ea0",
           "size": "73298003",
@@ -95,7 +95,7 @@
           "help": {
             "online": ""
           },
-          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/896c818519984e43edf3240ef694fe7873453d0a/Boards/ElectronicsCodingHWv1.0.0.zip",
+          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/89d328baa17cd51d4e69b66b9f89a77a1cc72cae/Boards/ElectronicsCodingHWv1.0.0.zip",
           "checksum": "SHA-256:fbe32ac443fb5a0051d51129e9bb26fb3b7c1d87ba546df86ab4ecaa47e38ce3",
           "name": "esp32",
           "version": "1.0.0",
