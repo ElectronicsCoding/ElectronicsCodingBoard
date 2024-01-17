@@ -14,22 +14,22 @@
           "architecture": "esp32",
           "version": "1.0.1",
           "category": "ESP32",
-          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/6a5d253cb485b5eaa8befedceeafcf249b88ea84/Boards/ElectronicsCodingHWv1.0.1.zip",
+          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/afa8f2546421f903760d19a4192bd7fc95ed789d/Boards/ElectronicsCodingHWv1.0.1.zip",
           "archiveFileName": "ElectronicsCodingHWv1.0.1.zip",
-          "checksum": "SHA-256:b8d865ab5d20b2d90f35c952c6da299d3e317ae363fe90560706ebce551c7054",
-          "size": "73298003",
+          "checksum": "SHA-256:8d09db368ba5b3be51c3e655f1efc94ad6b77ab43d051aa11cc417c15fb22334",
+          "size": "73298786",
           "help": {
             "online": ""
           },
           "boards": [
             {
-              "name": "AIO Mega Classic"
+              "name": "Codrino Mega Classic"
             },
             {
-              "name": "AIO Mega Pure"
+              "name": "Codrino Mega Pure"
             },
             {
-              "name": "AIO Mega Premium"
+              "name": "Codrino Mega Premium"
             }
           ],
           "toolsDependencies": [
@@ -95,13 +95,13 @@
           "help": {
             "online": ""
           },
-          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/6a5d253cb485b5eaa8befedceeafcf249b88ea84/Boards/ElectronicsCodingHWv1.0.0.zip",
-          "checksum": "SHA-256:3dbccefd39ae82bf7fa632b0c1dd0e2fad8b7f3fa699563ae06d864f2b287877",
+          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/89d328baa17cd51d4e69b66b9f89a77a1cc72cae/Boards/ElectronicsCodingHWv1.0.0.zip",
+          "checksum": "SHA-256:fbe32ac443fb5a0051d51129e9bb26fb3b7c1d87ba546df86ab4ecaa47e38ce3",
           "name": "esp32",
           "version": "1.0.0",
           "architecture": "esp32",
           "archiveFileName": "ElectronicsCodingHWv1.0.0.zip",
-          "size": "73298003",
+          "size": "72171831",
           "toolsDependencies": [
             {
               "packager": "esp32",
