@@ -14,10 +14,10 @@
           "architecture": "esp32",
           "version": "1.0.1",
           "category": "ESP32",
-          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/b8fa2870b663d0fc85639693354893d75e8061b8/Boards/ElectronicsCodingHWv1.0.1.zip",
+          "url": "https://github.com/ElectronicsCoding/ElectronicsCodingBoard/raw/84a3ed80d57fd2a7f92bdd846abbbf209df2ef0b/Boards/ElectronicsCodingHWv1.0.1.zip",
           "archiveFileName": "ElectronicsCodingHWv1.0.1.zip",
-          "checksum": "SHA-256:5df4ccb3cfff547a23182cac3aef88a67c070a62146df54513abd3d5697d73aa",
-          "size": "72486557",
+          "checksum": "SHA-256:eebc1ef1b3d31be6717fa7c2274793e67d83a6f9fafabba4d5933904ba42eb22",
+          "size": "773023458",
           "help": {
             "online": ""
           },
