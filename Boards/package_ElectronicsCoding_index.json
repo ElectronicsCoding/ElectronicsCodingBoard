@@ -67,11 +67,6 @@
             },
             {
               "packager": "esp32",
-              "name": "openocd-esp32",
-              "version": "v0.12.0-esp32-20230419"
-            },
-            {
-              "packager": "esp32",
               "name": "esptool_py",
               "version": "4.5.1"
             },
@@ -148,11 +143,6 @@
             },
             {
               "packager": "esp32",
-              "name": "openocd-esp32",
-              "version": "v0.12.0-esp32-20230419"
-            },
-            {
-              "packager": "esp32",
               "name": "esptool_py",
               "version": "4.5.1"
             },
@@ -215,11 +205,6 @@
               "packager": "esp32",
               "name": "riscv32-esp-elf-gdb",
               "version": "11.2_20220823"
-            },
-            {
-              "packager": "esp32",
-              "name": "openocd-esp32",
-              "version": "v0.12.0-esp32-20230419"
             },
             {
               "packager": "esp32",
