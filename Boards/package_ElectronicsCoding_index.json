@@ -57,11 +57,6 @@
             },
             {
               "packager": "esp32",
-              "name": "mkspiffs",
-              "version": "0.2.3"
-            },
-            {
-              "packager": "esp32",
               "name": "openocd-esp32",
               "version": "v0.12.0-esp32-20240318"
             },
@@ -75,9 +70,6 @@
               "name": "xtensa-esp-elf-gdb",
               "version": "12.1_20231023"
             },
-
-
-
             {
               "packager": "esp32",
               "name": "xtensa-esp32-elf-gcc",
