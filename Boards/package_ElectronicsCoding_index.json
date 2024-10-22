@@ -25,13 +25,16 @@
           },
           "boards": [
             {
-              "name": "Codrino Mega Classic"
+              "name": "Codrino LED Controller"
             },
             {
               "name": "Codrino Mega Pure"
             },
             {
               "name": "Codrino Mega Premium"
+            },
+            {
+              "name": "Codrino Pressure Tile"
             }
           ],
           "toolsDependencies": [
